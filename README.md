@@ -1,2 +1,2 @@
 # FlightChess
-easy mode, one pieces per player
+easy mode, one piece per player
